@@ -1,0 +1,19 @@
+{
+  "name": "decentralized-rental-dapp",
+  "version": "1.0.0",
+  "description": "Front-end interface for the RentalAssetManager contract on the Base Network.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@reown/appkit": "^1.7.18",
+    "@reown/appkit-adapter-ethers5": "^1.7.18",
+    "ethers": "^5.7.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  }
+}
